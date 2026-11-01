@@ -56,6 +56,20 @@ The complete project report is available here:
 - Add GPS and emergency notification features.
 - Improve detection accuracy.
 
+
+---
+
+## 📸 Project Demonstration
+
+### 1. Normal Driving Condition (Driver Awake)
+
+![Awake Hardware](images/awake_hardware.png)
+
+### 2. Drowsiness Detected
+
+![Drowsy Hardware](images/drowsy_hardware.png)
+
+
 ## 👨‍💻 Author
 
 **Shrey Sharma**
