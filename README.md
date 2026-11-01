@@ -45,6 +45,10 @@ The complete project report is available here:
 
 [View Project Report](driver%20drowsiness%20project.pdf)
 
+## 💻 Source Code
+
+[View Arduino Source Code](drowsiness_detection.ino)
+
 ## 🚀 Future Improvements
 
 - Integrate a camera-based eye-tracking system.
